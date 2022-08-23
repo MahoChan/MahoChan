@@ -1,5 +1,5 @@
 ### Hi, I'm MahoChan. 👋
-You can find me at OCRID : 
+You can find me at ORCID : 
 https://orcid.org/0000-0002-4768-808X
 
 <!--
