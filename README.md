@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm MahoChan. 👋
+You can find me at OCRID : 
+https://orcid.org/0000-0002-4768-808X
 
 <!--
 **MahoChan/MahoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
