@@ -26,7 +26,7 @@
 
 <div align="center" id="visitors_map">
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5632otgduz4&amp;m=0&amp;c=9d8b63&amp;cr1=ff0000&amp;f=arial&amp;l=0&amp;rs=100&amp;as=40" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5632otgduz4&amp;m=0&amp;c=9d8b63&amp;cr1=ff0000&amp;f=arial&amp;l=0&amp;rs=100&amp;as=40" async="async"></script> -->
 
 </div>
 
