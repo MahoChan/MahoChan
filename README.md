@@ -10,6 +10,12 @@
 </a>
 </div>
 
+<div align="center" id="visitors_map">
+
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5632otgduz4&amp;m=0&amp;c=9d8b63&amp;cr1=ff0000&amp;f=arial&amp;l=0&amp;rs=100&amp;as=40" async="async"></script> -->
+
+</div>
+
 <!-- Gif icon-->
 <div align="center" id="gif_icon">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
@@ -23,13 +29,6 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=MahoChan" alt="访客统计" />
 
 </div>
-
-<div align="center" id="visitors_map">
-
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5632otgduz4&amp;m=0&amp;c=9d8b63&amp;cr1=ff0000&amp;f=arial&amp;l=0&amp;rs=100&amp;as=40" async="async"></script> -->
-
-</div>
-
 
 <!--
 **MahoChan/MahoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
