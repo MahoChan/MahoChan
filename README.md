@@ -5,7 +5,7 @@
 - I enjoy science and new technologies, as well as the humanities and social sciences. If you want to know more about me (**for life**), my biography may be a better choice. Here is the html link : xxxxxxxxxxx (not available for now)
 
 <a href="https://github.com/MahoChan">
-    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=ZYangChen&theme=buefy&show_icons=true" />
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=MahoChan&theme=buefy&show_icons=true" />
 </a>
 
 <!-- Gif icon-->
